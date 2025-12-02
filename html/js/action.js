@@ -1,1 +1,1 @@
-
+var souta = 'souta';
